@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Git\Test_repository_public\bin\Debug\net6.0\Test_repository_public.exe
+C:\Users\user\Desktop\Git\Test_repository_public\bin\Debug\net6.0\Test_repository_public.deps.json
+C:\Users\user\Desktop\Git\Test_repository_public\bin\Debug\net6.0\Test_repository_public.runtimeconfig.json
+C:\Users\user\Desktop\Git\Test_repository_public\bin\Debug\net6.0\Test_repository_public.dll
+C:\Users\user\Desktop\Git\Test_repository_public\bin\Debug\net6.0\Test_repository_public.pdb
+C:\Users\user\Desktop\Git\Test_repository_public\obj\Debug\net6.0\Test_repository_public.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Git\Test_repository_public\obj\Debug\net6.0\Test_repository_public.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Git\Test_repository_public\obj\Debug\net6.0\Test_repository_public.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Git\Test_repository_public\obj\Debug\net6.0\Test_repository_public.AssemblyInfo.cs
+C:\Users\user\Desktop\Git\Test_repository_public\obj\Debug\net6.0\Test_repository_public.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Git\Test_repository_public\obj\Debug\net6.0\Test_repository_public.dll
+C:\Users\user\Desktop\Git\Test_repository_public\obj\Debug\net6.0\refint\Test_repository_public.dll
+C:\Users\user\Desktop\Git\Test_repository_public\obj\Debug\net6.0\Test_repository_public.pdb
+C:\Users\user\Desktop\Git\Test_repository_public\obj\Debug\net6.0\Test_repository_public.genruntimeconfig.cache
+C:\Users\user\Desktop\Git\Test_repository_public\obj\Debug\net6.0\ref\Test_repository_public.dll
